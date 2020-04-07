@@ -1,3 +1,7 @@
+# Hosta Labs Portal
+
+Portal developed for Hosta Labs (hostalabs.com) allowing clients to upload photos for processing by Hosta. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
